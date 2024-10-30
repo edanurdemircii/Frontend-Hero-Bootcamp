@@ -1,0 +1,109 @@
+
+.slider__wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F7F7F7;
+}
+
+.slider__left {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.slider_desc {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.bds-c-hero__image {
+    width: 100%;
+    height: 50%;
+    object-fit: cover;
+}
+.slider__form{
+    width: 100%;
+    display: flex;
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+    gap: 1rem;
+}
+.location__form {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+    border: 1px solid #dee3ed;
+
+}
+
+.locfind__button {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    cursor: pointer;
+    
+}
+.location__button{
+    color: white;
+    background-color: #cd0042;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+.location__input {
+    padding: 0.5rem;
+    border-radius: 5px;
+    width: 100%;
+    border: none;
+}
+.partners{
+    bottom: 60px;
+}
+.partners-section{
+    position: absolute;
+    z-index: 1;
+    
+    bottom: -50%;
+    width: 30%;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: white; 
+    box-sizing: border-box;
+
+}
+.partners-image{
+    position: relative;
+    height: 404px;
+    width: 100%;
+    background-position: 50%;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-size: cover;
+}
+.partners__button{
+    color: white;
+    padding: 10px;
+    background-color: #cd0042;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+.text-title{
+    font-size: 1.5rem;
+
+}
+
+.cities_options{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    gap: 1rem;
+}
+.cities-image{
+    width: 20%;
+    height: 100%;
+    object-fit: cover;
+}
