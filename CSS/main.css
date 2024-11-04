@@ -1,25 +1,17 @@
 
-.slider__wrapper {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #F7F7F7;
-}
-
-.slider__left {
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-}
-
-.slider_desc {
+.dsc-text {
     font-size: 2rem;
     font-weight: bold;
 }
-
+.downloadApp{
+    background: #fa0050;
+    border-radius: 16px;
+    color: #fff;
+}
+.link{
+    color: #fa0050;
+}
 .bds-c-hero__image {
-    width: 100%;
-    height: 50%;
     object-fit: cover;
 }
 .slider__form{
@@ -60,12 +52,11 @@
     border: none;
 }
 .partners{
-    bottom: 60px;
+    margin-bottom: 200px;
 }
 .partners-section{
     position: absolute;
     z-index: 1;
-    
     bottom: -50%;
     width: 30%;
     padding: 5px;
@@ -75,13 +66,16 @@
 
 }
 .partners-image{
+    background-image: url('/İMG/home-vendor-tr.webp');
+
     position: relative;
-    height: 404px;
-    width: 100%;
-    background-position: 50%;
+    z-index: -1;
     background-repeat: no-repeat;
-    object-fit: cover;
     background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 404px;
+    
 }
 .partners__button{
     color: white;
@@ -90,20 +84,4 @@
     border-radius: 5px;
     border: none;
     cursor: pointer;
-}
-.text-title{
-    font-size: 1.5rem;
-
-}
-
-.cities_options{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: start;
-    gap: 1rem;
-}
-.cities-image{
-    width: 20%;
-    height: 100%;
-    object-fit: cover;
 }
