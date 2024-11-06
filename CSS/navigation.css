@@ -1,27 +1,6 @@
-.navigation {
-    display: flex; 
-    width: 100%;
-    justify-content: space-between;
-    align-items: center;
-    position: fixed; 
-    top: 0; 
-    background-color: white;  
-   
-}
 
-.navigation a{
-    text-decoration: none;
-    font-weight: bold;
-   
-}
-.navigation ul{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    list-style: none;
-    gap: 1rem;
-    
-}
+
+
 .girisButton{
     padding: 0.5rem 1rem;
     border: 1px solid #000;
@@ -30,7 +9,7 @@
 }
 .kayitButton{
     color: white;
-    background-color: #cd0042;
+    background-color: #fa0050;
     padding: 0.5rem 1rem;
     border-radius: 5px;
 }

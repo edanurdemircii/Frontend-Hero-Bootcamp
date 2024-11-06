@@ -1,0 +1,11 @@
+.select-button{
+    background-color: #fff;
+    border-radius: 10px;
+    white-space: nowrap; 
+    padding: 0 1rem; 
+    border: 1px solid #000; 
+    font-size: 14px; 
+    max-width: 100%; 
+    overflow: hidden; 
+
+}
