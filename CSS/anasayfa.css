@@ -7,9 +7,20 @@
     font-size: 14px;
     max-width: 100%;
     overflow: hidden;
-
 }
-
+.cardlist {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+}
+.bdsc{
+    list-style-type: none;
+}
+.bdsc-item{
+    border-right: 1px solid #000;
+    padding-right: 1rem;
+}
 .card-text {
     text-align: center;
     color: gray;
@@ -20,6 +31,7 @@
 }
 .card{
     border-radius: 1.5rem;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
 }
 .vendor-tile-revamped-image{
     border-radius: 1.5rem  1.5rem 0 0  ;

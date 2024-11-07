@@ -1,4 +1,4 @@
-fetch('areaData.json')
+fetch('JSON/areaData.json')
 .then(response => response.json())
 .then(data => {
     const areaSelect = document.getElementById('areaSelect');

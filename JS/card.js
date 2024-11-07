@@ -1,5 +1,5 @@
 
-  fetch("cardData.json")
+  fetch("JSON/cardData.json")
     .then(response => response.json())
     .then(cardData => {
       const cardContainer = document.getElementById("card-container");
@@ -7,10 +7,11 @@
   cardData.forEach(data => {
     const card = document.createElement("div");
     card.className = "card m-2 position-relative";
-    card.style.width = "18rem";
+    card.style.width = "24rem";
     card.style.border = "1px solid #ddd";
     card.style.borderRadius = "1.5rem";
     card.style.overflow = "hidden";
+    card.style.columnCount = "3";
 
     card.innerHTML = `
       <img src="${data.img}" alt="${data.title}" class="vendor-tile-revamped-image">
