@@ -1,0 +1,183 @@
+[
+    {
+      "img": "https://images.deliveryhero.io/image/fd-tr/LH/j6kz-listing.jpg?width=400&height=225",
+      "title": "Mogaf Hatay Döner",
+      "discount": "20% indirim",
+      "delivery": "Teslimat ücreti yok!",
+      "rating": 4,
+      "reviews": 3000,
+      "minOrder": "0TL minimum",
+      "cuisine": "Kebap & Türk Mutfağı"
+    },
+    {
+      "img": "https://images.deliveryhero.io/image/fd-tr/LH/j6kz-listing.jpg?width=400&height=225",
+      "title": "Başka Bir Restoran",
+      "discount": "15% indirim",
+      "delivery": "Teslimat ücreti var",
+      "rating": 4.5,
+      "reviews": 1500,
+      "minOrder": "10TL minimum",
+      "cuisine": "İtalyan Mutfağı"
+    },
+    {
+      "img": "https://images.deliveryhero.io/image/fd-tr/LH/j6kz-listing.jpg?width=400&height=225",
+      "title": "Üçüncü Restoran",
+      "discount": "10% indirim",
+      "delivery": "Teslimat ücreti var",
+      "rating": 3.5,
+      "reviews": 500,
+      "minOrder": "20TL minimum",
+      "cuisine": "Dünya Mutfağı"
+    },
+    {
+        "img": "https://images.deliveryhero.io/image/fd-tr/LH/j6kz-listing.jpg?width=400&height=225",
+        "title": "Mogaf Hatay Döner",
+        "discount": "20% indirim",
+        "delivery": "Teslimat ücreti yok!",
+        "rating": 4,
+        "reviews": 3000,
+        "minOrder": "0TL minimum",
+        "cuisine": "Kebap & Türk Mutfağı"
+      },
+      {
+        "img": "https://images.deliveryhero.io/image/fd-tr/LH/j6kz-listing.jpg?width=400&height=225",
+        "title": "Başka Bir Restoran",
+        "discount": "15% indirim",
+        "delivery": "Teslimat ücreti var",
+        "rating": 4.5,
+        "reviews": 1500,
+        "minOrder": "10TL minimum",
+        "cuisine": "İtalyan Mutfağı"
+      },
+      {
+        "img": "https://images.deliveryhero.io/image/fd-tr/LH/j6kz-listing.jpg?width=400&height=225",
+        "title": "Üçüncü Restoran",
+        "discount": "10% indirim",
+        "delivery": "Teslimat ücreti var",
+        "rating": 3.5,
+        "reviews": 500,
+        "minOrder": "20TL minimum",
+        "cuisine": "Dünya Mutfağı"
+      },
+      {
+        "img": "https://images.deliveryhero.io/image/fd-tr/LH/j6kz-listing.jpg?width=400&height=225",
+        "title": "Mogaf Hatay Döner",
+        "discount": "20% indirim",
+        "delivery": "Teslimat ücreti yok!",
+        "rating": 4,
+        "reviews": 3000,
+        "minOrder": "0TL minimum",
+        "cuisine": "Kebap & Türk Mutfağı"
+      },
+      {
+        "img": "https://images.deliveryhero.io/image/fd-tr/LH/j6kz-listing.jpg?width=400&height=225",
+        "title": "Başka Bir Restoran",
+        "discount": "15% indirim",
+        "delivery": "Teslimat ücreti var",
+        "rating": 4.5,
+        "reviews": 1500,
+        "minOrder": "10TL minimum",
+        "cuisine": "İtalyan Mutfağı"
+      },
+      {
+        "img": "https://images.deliveryhero.io/image/fd-tr/LH/j6kz-listing.jpg?width=400&height=225",
+        "title": "Üçüncü Restoran",
+        "discount": "10% indirim",
+        "delivery": "Teslimat ücreti var",
+        "rating": 3.5,
+        "reviews": 500,
+        "minOrder": "20TL minimum",
+        "cuisine": "Dünya Mutfağı"
+      },
+      {
+          "img": "https://images.deliveryhero.io/image/fd-tr/LH/j6kz-listing.jpg?width=400&height=225",
+          "title": "Mogaf Hatay Döner",
+          "discount": "20% indirim",
+          "delivery": "Teslimat ücreti yok!",
+          "rating": 4,
+          "reviews": 3000,
+          "minOrder": "0TL minimum",
+          "cuisine": "Kebap & Türk Mutfağı"
+        },
+        {
+          "img": "https://images.deliveryhero.io/image/fd-tr/LH/j6kz-listing.jpg?width=400&height=225",
+          "title": "Başka Bir Restoran",
+          "discount": "15% indirim",
+          "delivery": "Teslimat ücreti var",
+          "rating": 4.5,
+          "reviews": 1500,
+          "minOrder": "10TL minimum",
+          "cuisine": "İtalyan Mutfağı"
+        },
+        {
+          "img": "https://images.deliveryhero.io/image/fd-tr/LH/j6kz-listing.jpg?width=400&height=225",
+          "title": "Üçüncü Restoran",
+          "discount": "10% indirim",
+          "delivery": "Teslimat ücreti var",
+          "rating": 3.5,
+          "reviews": 500,
+          "minOrder": "20TL minimum",
+          "cuisine": "Dünya Mutfağı"
+        },
+        {
+          "img": "https://images.deliveryhero.io/image/fd-tr/LH/j6kz-listing.jpg?width=400&height=225",
+          "title": "Mogaf Hatay Döner",
+          "discount": "20% indirim",
+          "delivery": "Teslimat ücreti yok!",
+          "rating": 4,
+          "reviews": 3000,
+          "minOrder": "0TL minimum",
+          "cuisine": "Kebap & Türk Mutfağı"
+        },
+        {
+          "img": "https://images.deliveryhero.io/image/fd-tr/LH/j6kz-listing.jpg?width=400&height=225",
+          "title": "Başka Bir Restoran",
+          "discount": "15% indirim",
+          "delivery": "Teslimat ücreti var",
+          "rating": 4.5,
+          "reviews": 1500,
+          "minOrder": "10TL minimum",
+          "cuisine": "İtalyan Mutfağı"
+        },
+        {
+          "img": "https://images.deliveryhero.io/image/fd-tr/LH/j6kz-listing.jpg?width=400&height=225",
+          "title": "Üçüncü Restoran",
+          "discount": "10% indirim",
+          "delivery": "Teslimat ücreti var",
+          "rating": 3.5,
+          "reviews": 500,
+          "minOrder": "20TL minimum",
+          "cuisine": "Dünya Mutfağı"
+        },
+        {
+            "img": "https://images.deliveryhero.io/image/fd-tr/LH/j6kz-listing.jpg?width=400&height=225",
+            "title": "Mogaf Hatay Döner",
+            "discount": "20% indirim",
+            "delivery": "Teslimat ücreti yok!",
+            "rating": 4,
+            "reviews": 3000,
+            "minOrder": "0TL minimum",
+            "cuisine": "Kebap & Türk Mutfağı"
+          },
+          {
+            "img": "https://images.deliveryhero.io/image/fd-tr/LH/j6kz-listing.jpg?width=400&height=225",
+            "title": "Başka Bir Restoran",
+            "discount": "15% indirim",
+            "delivery": "Teslimat ücreti var",
+            "rating": 4.5,
+            "reviews": 1500,
+            "minOrder": "10TL minimum",
+            "cuisine": "İtalyan Mutfağı"
+          },
+          {
+            "img": "https://images.deliveryhero.io/image/fd-tr/LH/j6kz-listing.jpg?width=400&height=225",
+            "title": "Üçüncü Restoran",
+            "discount": "10% indirim",
+            "delivery": "Teslimat ücreti var",
+            "rating": 3.5,
+            "reviews": 500,
+            "minOrder": "20TL minimum",
+            "cuisine": "Dünya Mutfağı"
+          }
+  ]
+  
