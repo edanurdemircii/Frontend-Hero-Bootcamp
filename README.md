@@ -24,7 +24,7 @@ Example:
 
 Open index.html directly in a browser to view the project.
 
-5. Responsive Design
+4. Responsive Design
 The layout adjusts automatically based on screen size.
 On smaller screens, the cards stack vertically; on larger screens, they remain aligned horizontally.
 Technologies Used
